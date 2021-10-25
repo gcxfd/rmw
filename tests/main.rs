@@ -1,5 +1,7 @@
+use rmw;
+
 #[test]
 fn main() {
-  println!("12");
+  println!(">>> {}", rmw::main());
   assert_eq!(1, 1);
 }
