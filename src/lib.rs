@@ -1,4 +1,1 @@
-pub fn main() -> String {
-  println!("!!!");
-  return "Hello, world!".into();
-}
+pub fn site_new() {}
